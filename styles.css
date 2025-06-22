@@ -1,6 +1,4 @@
-/* styles.css */
 body {
-  background-color: lightblue;
-  text-align: center;
-  font-family: sans-serif;
+    background-color: white; /* or #ffffff */
+    color: black;
 }
